@@ -1,12 +1,18 @@
 ## Hi there 👋
 
-<!--
+Vaccum Technologies is dedicated to building innovative solutions that tackle common challenges. We strive to address real-world problems with cutting-edge ideas and technologies that drive positive change.
 
-**Here are some ideas to get you started:**
+Projects:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Statbod formely known as Card of legends :
+
+Statbod is a platform for gamers to validate and showcase their gaming stats through official, shareable stat cards. As performance improves, users unlock new cards reflecting their achievements. Like LinkedIn for gamers, Statbod makes stats verifiable, visually appealing, and easy to share across communities and social platforms.
+
+Grozee :
+
+Grozee is a platform designed to bring small, local shops online specifically targeting third-tier cities where such digital solutions are often overlooked. It empowers shop owners to easily set up their own online stores and manage everything independently, from product listings to fast deliveries like 10-minute order fulfillment. Grozee bridges the digital gap for underserved markets, helping local businesses thrive in the online economy.
+
+RapTree :
+
+RapTree is a personalized AI tutor app where users create custom AI avatars that serve as their tutors. The fun twist? Imagine Donald Trump or any iconic figure teaching your classes!
+
