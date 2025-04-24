@@ -4,7 +4,7 @@ Vaccum Technologies is dedicated to building innovative solutions that tackle co
 
 Projects:
 
-Statbod formely known as Card of legends :
+Statbod (formerly Card of Legends):
 
 Statbod is a platform for gamers to validate and showcase their gaming stats through official, shareable stat cards. As performance improves, users unlock new cards reflecting their achievements. Like LinkedIn for gamers, Statbod makes stats verifiable, visually appealing, and easy to share across communities and social platforms.
 
